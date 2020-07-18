@@ -1,2 +1,1 @@
-# Journey2LearnPython
-Notes to learn Python.
+Python学习之旅
